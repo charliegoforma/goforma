@@ -1,4 +1,3 @@
-<script>
 document.addEventListener("DOMContentLoaded", function() {
     // Getting all input elements by their IDs
     const grossProfitInput = document.getElementById("gross-profit");
@@ -56,4 +55,3 @@ document.addEventListener("DOMContentLoaded", function() {
         netProfitValueInput.value = netProfitValue.toFixed(2);
     });
 });
-</script>
